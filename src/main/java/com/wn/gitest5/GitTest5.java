@@ -20,4 +20,8 @@ public class GitTest5 {
     public  static void pushTest2(){
         System.out.println("pushTest2");
     }
+    
+    public  static void pullTest(){
+        System.out.println("pullTest");
+    }
 }
