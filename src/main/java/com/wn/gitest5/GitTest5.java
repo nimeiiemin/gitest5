@@ -16,4 +16,8 @@ public class GitTest5 {
         System.out.println("pushTest");
 
     }
+
+    public  static void pushTest2(){
+        System.out.println("pushTest2");
+    }
 }
